@@ -33,3 +33,7 @@ to locally delete branch use
 git branch -d <name of branch>
 if you get message that it won't dlete use
 git branch -D <name of branch>
+
+I am creating a Contact component. I want to then push it to Github without my netlify updating.
+1 - create a local branch
+2 - create components directory, then contact file
