@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>Pursuit App Template</h1>
       <h2>My new update</h2>
+      <h3>Making changes on sm-first-branch</h3>
     </div>
   );
 }
