@@ -1,4 +1,5 @@
 import "./App.css";
+import Contact from "./Components/Contact";
 
 function App() {
   console.log(process.env.REACT_APP_API_KEY);
