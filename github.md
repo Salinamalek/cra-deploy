@@ -36,4 +36,10 @@ git branch -D <name of branch>
 
 I am creating a Contact component. I want to then push it to Github without my netlify updating.
 1 - create a local branch
-2 - create components directory, then contact file
+2 - create components directory
+3 - create contact.js
+4 - git status look at updates
+5 - git add .
+6 - git commit -m <message in quotes>
+7 - add component to the app.js
+8 - npm start to see if it works
