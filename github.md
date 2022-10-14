@@ -28,3 +28,8 @@ takes you to the last branch you were at
 
 git pull origin main
 do this after you merge on github and before you add anything else to your main branch
+
+to locally delete branch use
+git branch -d <name of branch>
+if you get message that it won't dlete use
+git branch -D <name of branch>
